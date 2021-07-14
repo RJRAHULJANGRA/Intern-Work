@@ -1,16 +1,16 @@
-# FUNCTIONS IN PYTHON
+# BOX PLOT AND IMAGES
 ## TEAM INT-PY 12
-## AUTHOR [ANAMIKA JAIN](https://github.com/ANAMIKA1410)
+## AUTHOR [RAHUL JANGRA](https://github.com/RJRAHULJANGRA/)
 ## CONTENTS
-    1. What is function ?
-    2. Types of functions ;
-    3. How to use built-in function ;
-    4. How to use functions of module ;
-    5. How to define a function;
-    6. Return type function;
-    7. functions calling;
-    8. scope of varible;
+    1. Box plot ?
+    2. FUNCTIONS OF BOX PLOT;
+    3. Outliers;
+    4. BOX PLOT CHART ;
+    5. PLOTTING THE BOX PLOT CHART;
+    6. WORKING WITH IMAGES;
+    7. Opening the images;
+    8. cropping the images;
 
 
 ## WORK FLOW
-  * Rahul Jagnedra - video making
+  * Anamika jain - video making
